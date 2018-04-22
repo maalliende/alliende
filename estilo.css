@@ -19,7 +19,7 @@ h1{
 	letter-spacing:0.05em;
 	color:rgba(20,46,84,0.9);
 	text-shadow: 1px 1px 0 #ffffff;	
-	text-align:center;
+	text-align:top,left;
 }
 
 h2{
@@ -70,7 +70,7 @@ video{
 #somos{
 	width:100%;
 	background:rgb(250,250,250);
-	margin-top:2%;
+	margin-center,center:2%;
 	}
 
 .dupla{
