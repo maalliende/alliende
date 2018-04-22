@@ -18,15 +18,15 @@ h1, h2, h3, h4{
 h1{
 	letter-spacing:0.05em;
 	color:rgba(20,46,84,0.9);
-	text-shadow: 2px 2px 2px #ffffff;	
+	text-shadow: 2px 2px 0 #ffffff;	
 	text-align:center;
 }
 
 h2{
 	letter-spacing:0.05em; 
-	color:rgba(255,255,209,1); 
+	color:rgba(20,46,84,0.9); 
 	padding:0.2em 0; 
-	text-shadow: 1px 1px 0 #793433;
+	text-shadow: 1px 1px 0 #ffffff;
 	text-align:center;		
 }
 
