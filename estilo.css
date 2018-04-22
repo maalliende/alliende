@@ -19,7 +19,7 @@ h1{
 	letter-spacing:0.05em;
 	color:rgba(20,46,84,0.9);
 	text-shadow: 1px 1px 0 #ffffff;	
-	text-align:top,left;
+	text-align:topleft;
 }
 
 h2{
